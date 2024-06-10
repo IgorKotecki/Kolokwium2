@@ -1,0 +1,7 @@
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.csproj.AssemblyReference.cache
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.AssemblyInfoInputs.cache
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.AssemblyInfo.cs
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.csproj.CoreCompileInputs.cache
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\s27014\Desktop\Kolokwium2\Kolos\Kolos\obj\Debug\net8.0\Kolos.sourcelink.json
